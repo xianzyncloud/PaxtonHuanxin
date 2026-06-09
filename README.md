@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PaxtonHuanxin&style=flat-square&color=FFD700&labelColor=000000&label=PROFILE+VIEWS)
 &ensp;
-[![GitHub Followers](https://img.shields.io/github/followers/PaxtonHuanxin?style=flat-square&color=FFD700&labelColor=000000&label=FOLLOWERS&logo=github&logoColor=FFD700)](https://github.com/Alifatahfauzi?tab=followers)
+[![GitHub Followers](https://img.shields.io/github/followers/Dravynshe?style=flat-square&color=FFD700&labelColor=000000&label=FOLLOWERS&logo=github&logoColor=FFD700)](https://github.com/Dravynshe?tab=followers)
 &ensp;
 [![YouTube](https://img.shields.io/badge/YOUTUBE-%40PaxtonHuanxin.ID-FFD700?style=flat-square&logo=youtube&logoColor=FFD700&labelColor=000000)](https://www.youtube.com/@Fauzialifatah)
 
