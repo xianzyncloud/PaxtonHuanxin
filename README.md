@@ -187,12 +187,12 @@ const about = [
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alifatahfauzi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Alifatahfauzi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dravynshe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Dravynshe&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=ffffff" />
 
 <br/><br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alifatahfauzi&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FFD700&langs_count=6" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dravynshe&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FFD700&langs_count=6" />
 
 </div>
 
@@ -206,7 +206,7 @@ const about = [
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alifatahfauzi&theme=react-dark&bg_color=0d1117&hide_border=true&color=FFD700&line=FFD700&point=ffffff&area=true)](https://github.com/Alifatahfauzi)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dravynshe&theme=react-dark&bg_color=0d1117&hide_border=true&color=FFD700&line=FFD700&point=ffffff&area=true)](https://github.com/Dravynshe)
 
 </div>
 
@@ -224,15 +224,15 @@ const about = [
   <img src="https://img.shields.io/badge/YouTube-FFD700?style=for-the-badge&logo=youtube&logoColor=black" height="36"/>
 </a>
 &ensp;
-<a href="https://www.instagram.com/fauzialifatah_">
+<a href="https://www.instagram.com/paxtonhuanxin.id">
   <img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black" height="36"/>
 </a>
 &ensp;
-<a href="https://heylink.me/FauziAlifatah">
+<a href="https://paxtonhuanxin.com">
   <img src="https://img.shields.io/badge/HeyLink-FFD700?style=for-the-badge&logo=linktree&logoColor=black" height="36"/>
 </a>
 &ensp;
-<a href="http://ziihost.store">
+<a href="http://paxtonhuanxin.store">
   <img src="https://img.shields.io/badge/Website-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" height="36"/>
 </a>
 
